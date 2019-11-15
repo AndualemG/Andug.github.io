@@ -2,7 +2,7 @@
 # **Andualem Girma Kefeni**
 andualem_girma@berkeley.edu | (510) 944-2180 | https://www.linkedin.com/in/andualem-girma | https://github.com/AndualemG
 
-# **EDUCATION**
+### **EDUCATION**
 **University of California, Berkeley, California** 								                                         Expected - Dec 2019
 Master of Science, Systems Engineering 
 Mastercard Foundation scholarship recipient  
@@ -12,7 +12,7 @@ analytics | Applications of Data Analytics | Control and Information Management 
 **Addis Ababa University, Ethiopia** 							                                                         Sep 2011 - Jul 2016
 Bachelor of Science, Civil Engineering
 
-# SELECTED PROJECTS
+### SELECTED PROJECTS
 Neural network and ARX prediction models										                                                              2019
 •	Formulated Neural network and ARX models for energy consumption and travel pattern of Electric Vehicles in Los Angeles, with a team of machine learning experts.
 •	Applied data cleaning and wrangling techniques to prepare a reliable hourly data of selected 7056 vehicles.
@@ -25,7 +25,7 @@ Data Visualization on Transportation Trends									     	    2018
 •	Conducted a survey and collected data on red-light crossing patterns on two crossings at Telegraph Ave Berkeley, CA. 
 •	Created visualizations of trends in red-light crossing behaviors of pedestrians in different times of the day.
 
-# WORK EXPERIENCE
+### WORK EXPERIENCE
 **Systems Engineer Intern** | Redhorse constructors, San Rafael, CA.                                                                               Jun 2019 - Aug 2019
 •	Spear-headed a household water purification system optimization project with a team of engineers.
 •	Planned and executed an effective project schedule, improving team efficiency by 40%.
@@ -42,7 +42,7 @@ Engineering Mechanics I Instructor | Unity University, Addis Ababa, Ethiopia.   
 •	Developed innovative class curriculum to provide basic understanding of the course for over 80 students.
 •	Conducted discussion sessions and personalized academic support sessions, providing clarification on lecture material and additional practice for new concepts.
 
-# SKILLS
+### SKILLS
 •	Python (Pandas, NumPy), R, SQL, MATLAB, Java, Unix, Fortran 
 •	Machine Learning, Data Wrangling, Data prototyping, Data Visualization, AB testing 
 •	Advanced MS Excel, AutoCAD, SAP, MS Project, ETABS
