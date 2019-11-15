@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Hello There
+## A litle bit about my self
+Hello there! My name is Andualem Girma, I am a graduate student at the University of California Berkeley studying my Master of Science in Systems Engineering (concentration in Data Science). I am a MasterCard scholarship recipient at the university, currently in the second year of my studies, to be graduated in December. 
 
-You can use the [editor on GitHub](https://github.com/AndualemG/Andug.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+In addition to working as a research assistant on Switch-china project, A Systems Approach to Decarbonize China’s power system, I am also a student assistant at Berkeley International Office, University of California Berkeley.
+I am obsessed with Machine learning and Optimization and I enjoy changing complex problems into algorithms and coming up with optimal solutions more than anything.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can always hit me up if you would like to have a chat.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AndualemG/Andug.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Stay blessed!
