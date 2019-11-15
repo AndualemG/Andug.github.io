@@ -1,4 +1,3 @@
-## Hello There
 ## A litle bit about my self
 Hello there! My name is Andualem Girma, I am a graduate student at the University of California Berkeley studying my Master of Science in Systems Engineering (concentration in Data Science). I am a MasterCard scholarship recipient at the university, currently in the second year of my studies, to be graduated in December. 
 
