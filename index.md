@@ -4,6 +4,7 @@ andualem_girma@berkeley.edu | (510) 944-2180 | https://www.linkedin.com/in/andua
 <br />**University of California, Berkeley, California** | Expected - Dec 2019
 <br />Master of Science, Systems Engineering 
 <br /> *Mastercard Foundation scholarship recipient*
+
 <br />**Relevant courses**: Optimization models | Data Science for Human Mobility and Socio-technical systems | Scalable spatial analytics | Applications of Data Analytics | Control and Information Management | Energy systems and Control
 
 <br />**Addis Ababa University, Ethiopia** | Sep 2011 - Jul 2016
