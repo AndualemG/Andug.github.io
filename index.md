@@ -1,5 +1,4 @@
 # **Andualem Girma Kefeni**
-read(Andualem_G_Kefeni_Resume*.pdf)
 andualem_girma@berkeley.edu | (510) 944-2180 | https://www.linkedin.com/in/andualem-girma | https://github.com/AndualemG
 
 ### **EDUCATION**
