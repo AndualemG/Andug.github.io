@@ -11,7 +11,7 @@ andualem_girma@berkeley.edu | (510) 944-2180 | https://www.linkedin.com/in/andua
 
 ### SELECTED PROJECTS
 <br />**Neural network and ARX prediction models** | 2019
-><li> <p>ormulated Neural network and ARX models for energy consumption and travel pattern of Electric Vehicles in Los Angeles, with a team of machine learning experts.
+><li> <p>Formulated Neural network and ARX models for energy consumption and travel pattern of Electric Vehicles in Los Angeles, with a team of machine learning experts.
 ><li> <p>Applied data cleaning and wrangling techniques to prepare a reliable hourly data of selected 7056 vehicles.
 ><li> <p>Designed optimal charging time intervals and charging station locations, with +30% improvement on efficiency.
 
