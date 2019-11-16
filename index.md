@@ -1,8 +1,5 @@
 # **Andualem Girma Kefeni**
-
-
 andualem_girma@berkeley.edu | (510) 944-2180 | https://www.linkedin.com/in/andualem-girma | https://github.com/AndualemG
-
 ### **EDUCATION**
 <br />**University of California, Berkeley, California** | Expected - Dec 2019
 <br />Master of Science, Systems Engineering 
@@ -45,6 +42,7 @@ andualem_girma@berkeley.edu | (510) 944-2180 | https://www.linkedin.com/in/andua
 <br />**Engineering Mechanics I Instructor** | Unity University, Addis Ababa, Ethiopia. | Oct 2016 - Jan 2017
 ><li> <p>Developed innovative class curriculum to provide basic understanding of the course for over 80 students.
 ><li> <p>Conducted discussion sessions and personalized academic support sessions, providing clarification on lecture material and additional practice for new concepts.
+
 ### SKILLS
 ><li> <p>Python (Pandas, NumPy), R, SQL, MATLAB, Java, Unix, Fortran </p></li>
 ><li> <p>Machine Learning, Data Wrangling, Data prototyping, Data Visualization, AB testing </p></li>
